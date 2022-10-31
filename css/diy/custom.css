@@ -163,27 +163,3 @@ li.card-archive-list-item {
 .card-widget.card-recent-post {
   padding: 0.4rem 0.6rem !important;
 }
-/*个人卡片渐变色*/
-
-/* @keyframes gradientBG {
-  0% {
-      background-position: 0% 50%;
-  }
-  50% {
-      background-position: 100% 50%;
-  }
-  100% {
-      background-position: 0% 50%;
-  }
-} */
-#aside-content > .card-widget.card-info {
-  background: #232323;
-  background-size: 400%;
-  box-shadow: var(--anzhiyu-shadow-black);
-  position: relative;
-  border: #23a6d5 2px solid;
-}
-.site-data > a .headline,
-.site-data > a .length-num {
-  color: var(--anzhiyu-white);
-}
