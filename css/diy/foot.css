@@ -92,10 +92,10 @@ svg.icon.faa-tada {
   height: 1.5em;
 }
 
-/*top-img黑色透明玻璃效果移除，不建议加，除非你执着于完全一图流或者背景图对比色明显 */
+/* top-img黑色透明玻璃效果移除，不建议加，除非你执着于完全一图流或者背景图对比色明显
 #page-header:not(.not-top-img):before {
   background-color: transparent !important;
-}
+} */
 
 /* 首页文章卡片 */
 #recent-posts > .recent-post-item {
@@ -169,14 +169,14 @@ div#category {
   background: transparent !important;
 }
 
-/* 头图透明 */
+/* 头图透明
 #page-header {
   background: transparent !important;
 }
 
 #rightside > div > button {
   border-radius: 5px;
-}
+} */
 
 /* 滚动条 */
 
@@ -186,7 +186,7 @@ div#category {
 }
 
 ::-webkit-scrollbar-thumb {
-  background-color: #3b70fc;
+  background-color: #07eff7;
   border-radius: 2em;
 }
 
@@ -375,7 +375,7 @@ button:not(:disabled) {
   display: none;
 }
 
-/* 代码框主题 */
+/* 代码框主题
 #article-container figure.highlight {
   border-radius: 10px;
-}
+} */
